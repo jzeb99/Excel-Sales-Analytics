@@ -4,7 +4,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report][(Customer Performance Report.pdf )](https://github.com/jzeb99/Excel-Sales-Analytics.git)
+    **1.** Create a _[customer performance report][[(Customer Performance Report.pdf )](https://github.com/jzeb99/Excel-Sales-Analytics.git)](https://github.com/jzeb99/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
 
